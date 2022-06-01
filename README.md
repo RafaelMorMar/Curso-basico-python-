@@ -2,7 +2,7 @@
 
 En este curso aprenderas a programar en Python
 
-![](https://github.com/RafaelMorMar/Curso-basico-python-/blob/main/imagenes/Python-logo.png])
+![](https://github.com/RafaelMorMar/Curso-basico-python-/blob/main/imagenes/Python-logo.png)
 
 **Requisitos**
 
